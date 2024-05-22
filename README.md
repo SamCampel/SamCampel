@@ -1,4 +1,3 @@
-## Hi there 👋
 
   📓💻 Estudo Análise e Desenvolvimento de Sistemas;
 -
