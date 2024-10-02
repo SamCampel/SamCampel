@@ -1,4 +1,4 @@
-Análise e Desenvolvimento de Sistemas;
--
-Buscando ser Devesenvolvedor Back-End;
--
+Análise e Desenvolvimento de Sistemas
+
+Buscando ser Devesenvolvedor Back-End
+
