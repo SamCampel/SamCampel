@@ -26,11 +26,11 @@
 />
 <img 
     align="left" 
-    alt="Next.js" 
-    title="Next.js"
+    alt="Node.js" 
+    title="Node.js"
     width="30px" 
     style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nextjs/nextjs-original.svg" 
+    src="https://cdn.jsdelivr.net/npm/nodeJS@1.0.0/index.min.js" 
 />
 <img 
     align="left" 
