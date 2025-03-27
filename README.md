@@ -69,7 +69,7 @@
 
 <div>
     <a href="https://www.linkedin.com/in/samuelccampelo/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
-</div><br><hr><br>
+</div>
 
 ### 📊 Estatísticas
 
@@ -78,7 +78,7 @@
       alt="GitHub Stats" 
       height="200" 
       src="https://github-readme-stats.vercel.app/api/top-langs/?username=SamCampel&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9" 
-  />
+  /><br><hr><br>
 
 # 👋 Olá! Sou o Samuel
 
