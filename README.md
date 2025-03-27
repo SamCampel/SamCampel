@@ -78,7 +78,7 @@
       alt="GitHub Stats" 
       height="200" 
       src="https://github-readme-stats.vercel.app/api/top-langs/?username=SamCampel&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9" 
-  /><br><hr><br>
+  /><br><br><br><br><br><br>
 
 # 👋 Olá! Sou o Samuel
 
