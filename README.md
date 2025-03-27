@@ -1,7 +1,7 @@
 ## 👋 Olá! Sou o Samuel
 
 📍 **Localização:** São Paulo  
-💻 **Stack Principal:** NodeJs
+💻 **Stack Principal:** NodeJs  
 🚀 **Objetivo:** Estou estudando para ser um desenvolvedor BackEnd, para quem sabe um dia trabalhar na gringa. 
 
 ### ✨ Sobre Mim
