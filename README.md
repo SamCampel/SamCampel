@@ -80,4 +80,16 @@
       src="https://github-readme-stats.vercel.app/api/top-langs/?username=SamCampel&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9" 
   />
 
+# 👋 Olá! Sou o Samuel
+
+📍 **Localização:** São Paulo  
+💻 **Stack Principal:** NodeJs
+🚀 **Objetivo:** Estou estudando para ser um desenvolvedor BackEnd, para quem sabe um dia trabalhar na gringa. 
+
+## ✨ Sobre Mim
+Atualmente, me dedico ao domínio de tecnologias de BackEnd como, Node.js, além de explorar ferramentas de Front como o Html e o CSS e conceitos de IoT e IA. Meu objetivo é me tornar um profissional completo.
+  
+- 📚 Formação: Análise e Desenvolvimento de Sistemas.  
+- 🎯 Metas para 2025: Aprender novas tecnologias.
+
 
