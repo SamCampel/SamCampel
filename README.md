@@ -22,14 +22,6 @@ Atualmente, curso análise e desenvolvimento de sistemas, estou no terceiro seme
 />
 <img 
     align="left" 
-    alt="CSharp"
-    title="Csharp" 
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/csharp/csharp-original.svg" 
-/>
-<img 
-    align="left" 
     alt="Node.js" 
     title="Node.js"
     width="30px" 
@@ -43,14 +35,6 @@ Atualmente, curso análise e desenvolvimento de sistemas, estou no terceiro seme
     width="30px" 
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="Bootstrap"
-    title="Bootstrap" 
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bootstrap/bootstrap-original.svg" 
 />
 <img 
     align="left" 
