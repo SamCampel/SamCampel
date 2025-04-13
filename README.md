@@ -11,7 +11,7 @@
 ## 👨‍💻 Stack Principal
 
 <div>
-  <img width="45%" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="Node.js" style="background-color: white; padding: 10px; border-radius: 10px;">
+  <img width="25%" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="Node.js" style="background-color: white; padding: 10px; border-radius: 10px;">
 </div>
 
 ### 🔧 Tecnologias Core  
@@ -27,8 +27,8 @@
 ## 🌟 Objetivos 2025  
 - Certificação AWS Cloud Practitioner Essentials
 - Projetos open-source com foco em performance  
-- Fluência técnica em inglês (preparação para mercado internacional) 
-
+- Fluência técnica em inglês (preparação para mercado internacional)
+##
 <div align="center" style="display: flex; justify-content: space-between; align-items: center;">
   <img width="45%" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExczhmZnA4eHF1OThvZHQyOXVmdXM0ZXlrOTloenR2OWsxOXI2NTJwZiZlcD12MV9naWZzX3NlYXJjaCZjdD1n/93UOscPyDH8cdRfSaT/giphy.gif" alt="Código animado">
 </div>
