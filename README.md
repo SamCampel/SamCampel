@@ -1,4 +1,4 @@
-## 👋 Olá! Sou o Samuel
+## 👋 Olá!
 
 📍 **Localização:** São Paulo  
 💻 **Stack Principal:** NodeJs  
@@ -10,7 +10,7 @@ Atualmente, curso análise e desenvolvimento de sistemas, estou no terceiro seme
 - 📚 Formação: Análise e Desenvolvimento de Sistemas.  
 - 🎯 Metas para 2025: Aprender novas tecnologias.
 
-### 🤖 Linguagens e Tecnologias
+### 🤖 Melhores Tecnologias
 
 <img 
     align="left" 
@@ -67,12 +67,15 @@ Atualmente, curso análise e desenvolvimento de sistemas, estou no terceiro seme
     <a href="https://www.linkedin.com/in/samuelccampelo/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
 </div>
 
+<img align="left" height="250" alt="coding-time" src="code.gif">
+
 ### 📊 Estatísticas
 
-<img 
-      align="left" 
-      alt="GitHub Stats" 
-      height="200" 
-      src="https://github-readme-stats.vercel.app/api/top-langs/?username=SamCampel&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9" 
-  />
+<div>
+  <img align="left" height="250em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SamCampel&layout=compact&langs_count=16&theme=great-gatsby"/>
+</div>
+<br>
+    
+  
+![Snake animation](https://github.com/SamCampel/SamCampelo/blob/output/github-contribution-grid-snake.svg)
 
