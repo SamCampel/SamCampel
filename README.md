@@ -75,7 +75,3 @@ Atualmente, curso análise e desenvolvimento de sistemas, estou no terceiro seme
   <img align="left" height="250em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SamCampel&layout=compact&langs_count=16&theme=great-gatsby"/>
 </div>
 <br>
-    
-  
-![Snake animation](https://github.com/SamCampel/SamCampelo/blob/output/github-contribution-grid-snake.svg)
-
