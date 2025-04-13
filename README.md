@@ -1,81 +1,46 @@
-## 👋 Olá!
+# 🚀 Samuel Campelo - Desenvolvedor BackEnd
 
-📍 **Localização:** São Paulo  
-💻 **Stack Principal:** NodeJs  
-🚀 **Objetivo:** Estou estudando para ser um desenvolvedor BackEnd, para quem sabe um dia trabalhar na gringa. 
+📍 **São Paulo, Brasil**  
+🎓 **Cursando Análise e Desenvolvimento de Sistemas** (Conclusão: 06/2026)  
+💻 **Foco em:** BackEnd
 
-### ✨ Sobre Mim
-Atualmente, curso análise e desenvolvimento de sistemas, estou no terceiro semestre, com previsão de conclusão em 06/2026.
-  
-- 📚 Formação: Análise e Desenvolvimento de Sistemas.  
-- 🎯 Metas para 2025: Aprender novas tecnologias.
+## 📫 Vamos Conectar!  
 
-### 🤖 Melhores Tecnologias
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/samuelccampelo/)  
 
-<img 
-    align="left" 
-    alt="JavaScript" 
-    title="JavaScript"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="Node.js" 
-    title="Node.js"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="MySQL"
-    title="MySQL" 
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="Git" 
-    title="Git"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="HTML"
-    title="HTML" 
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="CSS" 
-    title="CSS"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" 
-/>
-<br/>
-<br/>
+## 👨‍💻 Stack Principal
 
 <div>
-    <a href="https://www.linkedin.com/in/samuelccampelo/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
-  
+  <img width="45%" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="Node.js" style="background-color: white; padding: 10px; border-radius: 10px;">
 </div>
 
-<img align="left" height="250" alt="coding-time" src="code.gif">
+### 🔧 Tecnologias Core  
+<img src="https://img.shields.io/badge/Node.js-339933?logo=nodedotjs&logoColor=white&style=for-the-badge" alt="Node.js"/> <img src="https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black&style=for-the-badge" alt="JavaScript"/>  
+<img src="https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=white&style=for-the-badge" alt="MySQL"/> <img src="https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white&style=for-the-badge" alt="Git"/>
 
-### 📊 Estatísticas
+### 🛠 Ferramentas Complementares  
+<img src="https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=black&style=flat" alt="React"/> <img src="https://img.shields.io/badge/Vue.js-4FC08D?logo=vuedotjs&logoColor=white&style=flat" alt="Vue.js"/>  
+<img src="https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=white&style=flat" alt="HTML5"/> <img src="https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=white&style=flat" alt="CSS3"/>  
+<img src="https://img.shields.io/badge/MongoDB-47A248?logo=mongodb&logoColor=white&style=flat" alt="MongoDB"/> <img src="https://img.shields.io/badge/Bulma-00D1B2?logo=bulma&logoColor=white&style=flat" alt="Bulma"/>  
+<img src="https://img.shields.io/badge/Bootstrap-7952B3?logo=bootstrap&logoColor=white&style=flat" alt="Bootstrap"/> <img src="https://img.shields.io/badge/Sequelize-52B0E7?logo=sequelize&logoColor=white&style=flat" alt="Sequelize"/>  
 
-<div>
-  <img align="left" height="250em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SamCampel&layout=compact&langs_count=16&theme=great-gatsby"/>
+## 🌟 Objetivos 2025  
+- Certificação AWS Cloud Practitioner Essentials
+- Projetos open-source com foco em performance  
+- Fluência técnica em inglês (preparação para mercado internacional) 
+
+<div align="center" style="display: flex; justify-content: space-between; align-items: center;">
+  <img width="45%" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExczhmZnA4eHF1OThvZHQyOXVmdXM0ZXlrOTloenR2OWsxOXI2NTJwZiZlcD12MV9naWZzX3NlYXJjaCZjdD1n/93UOscPyDH8cdRfSaT/giphy.gif" alt="Código animado">
 </div>
-<br>
+
+## 📈 GitHub Analytics  
+
+<div align="center">  
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=SamCampel&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>  
+   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SamCampel&layout=compact&theme=radical&hide_progress=false&langs_count=100"/>
+</div>  
+
+## 🐍 Contribuições Contínuas  
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/SamCampel/SamCampel/output/github-contribution-grid-snake-dark.svg">
